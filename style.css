@@ -1,0 +1,19 @@
+body { 
+  background: linear-gradient(rgba(52, 85, 209, 0.35), rgba(52, 85, 209, 0.35)), url('lions-bg.jpg'); 
+  color: #121619;
+  font-family: 'Architects Daughter';
+  font-size: 1.25rem;
+}
+#main { 
+  margin: 5%;
+  margin-bottom: 10%;
+  background: linear-gradient(rgba(225, 222, 213, 0.75), rgba(225, 222, 213, 0.75)); 
+  border: 1px solid #A4AED4;
+  border-radius: 0.25rem;
+  padding: 5%;
+}
+#main-header { margin: 0 auto; width: 100%; text-align: center;}
+ol { width: 80%; margin: 0 auto; }
+li {
+  margin: 1.5%;
+}
